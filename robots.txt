@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kamalcr7.github.io/reference-1ajt2m/sitemap.xml
